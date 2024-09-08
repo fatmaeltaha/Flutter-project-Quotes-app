@@ -1,6 +1,6 @@
 # Quotes Application
 Quotes application by using flutter.  
--This application shows the most famous quotes of all time.
+*This application shows the most famous quotes of all time.
 ### How to use this app
 
 <img src="https://github.com/user-attachments/assets/f13cf291-20a7-4c0d-872b-810ad0696a23" width="150" height="350">
@@ -9,7 +9,7 @@ Quotes application by using flutter.
 -To view the previous quote, tap or touch the left button (arrow).
 
 - This video will show how to use the app.
-- ![Screenshot_1725812340](https://github.com/user-attachments/assets/7366072a-5e8f-4912-a1c9-ef79d68ca491)
+<img src="https://github.com/user-attachments/assets/7366072a-5e8f-4912-a1c9-ef79d68ca491" width="150" height="350">
 
 
 
